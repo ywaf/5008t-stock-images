@@ -18,6 +18,7 @@ system
 recovery  
 recovery1  
 
+system is in releases, others in the repo files
 
 These should be enough for most situations (email me if you want other partitions, trying not to leak my phones info :))
 
